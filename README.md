@@ -44,7 +44,7 @@ A robust backend API built with FastAPI and PostgreSQL for a premium content pla
 
 ## API Endpoints
 
-![All End Points](assets/images/Screenshot 2026-03-12 193800.png)
+![All End Points](assets/images/Screenshot%202026-03-12%20193800.png)
 
 ### Authentication
 - `POST /register`: Create a new account.
@@ -67,12 +67,15 @@ A robust backend API built with FastAPI and PostgreSQL for a premium content pla
 - `POST /admin/ai/query`: Ask natural language questions about user activity.
     - Example: `{"question": "Who is the most active premium user?"}`
 
-- AI Log Analysis using LLMs (Groq)
-![log analysis](assets\images\Screenshot 2026-03-12 193429.png)
+- AI Log Analysis using LLMs (Groq) :
 
-- Natural Language Query
-![question](assets\images\Screenshot 2026-03-12 193518.png)
-![answer](assets\images\Screenshot 2026-03-12 193604.png)
+![log analysis](assets/images/Screenshot%202026-03-12%20193429.png)
+
+- Natural Language Query :
+
+![question](assets/images/Screenshot%202026-03-12%20193518.png)
+
+![answer](assets/images/Screenshot%202026-03-12%20193604.png)
 
 
 
