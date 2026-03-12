@@ -73,7 +73,11 @@ A robust backend API built with FastAPI and PostgreSQL for a premium content pla
 
 - Natural Language Query :
 
+Question :
+
 ![question](assets/images/Screenshot%202026-03-12%20193518.png)
+
+Answer :
 
 ![answer](assets/images/Screenshot%202026-03-12%20193604.png)
 
