@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Databases
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+.gemini/
+brain/
+*.resolved
+
+# planning files
+phase plan.md
+pending phases.md
