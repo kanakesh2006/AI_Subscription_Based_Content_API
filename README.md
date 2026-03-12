@@ -1,6 +1,6 @@
 # AI Subscription-Based Content API
 
-A robust backend API built with FastAPI and PostgreSQL for a premium content platform.
+A robust AI analytics backed "AI Subscription-Based Content" backend API built with FastAPI and PostgreSQL for a premium content platform.
 
 ## Features
 
